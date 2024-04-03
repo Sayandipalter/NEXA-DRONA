@@ -8,7 +8,7 @@ load_dotenv()
 
 # Configure Streamlit page settings
 st.set_page_config(
-    page_title="Gemini-Pro Chatbot by HJP7",
+    page_title="DRONA Chatbot ",
     page_icon=":alien:",  # Favicon emoji
     layout="centered",  # Page layout option
 )
